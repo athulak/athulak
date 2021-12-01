@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://athulak.com/assets/image/code_rain.png" width="1000" height="150"/>
+
 
 |[*Microsoft Certified...*](https://www.credly.com/badges/4203e615-de6a-4594-b3df-f9e32c330513/public_url)|[*OCI Foundations…*](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B1DAF90CBBBB1B824BBBC8F95A1F2F03A1AC63D4C1B56CC746D19443AFD5B257)|
 |:-------------:|:-------------:|
