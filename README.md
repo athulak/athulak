@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/athulak"><img src="https://api.daily.dev/devcards/6edaee5fac1b4aadabceaf72a6b2567c.png?r=bsb" width="400" alt="Athul AK's Dev Card"/></a>
 
 <!--
 **athulak/athulak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+|[*OCI Foundations…*](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B1DAF90CBBBB1B824BBBC8F95A1F2F03A1AC63D4C1B56CC746D19443AFD5B257)|
+|:-------------:|
+|[<img src="https://raw.githubusercontent.com/athulak/athulak/master/assets/50_Oracle_Cloud_Infrastructure.png" data-canonical-src="https://athulak.com/assets/badges/Oracle_Cloud_Infrastructure.png" width="150"/>](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B1DAF90CBBBB1B824BBBC8F95A1F2F03A1AC63D4C1B56CC746D19443AFD5B257)|
+|Provided by [`Oracle`](https://www.oracle.com/cloud/)|
